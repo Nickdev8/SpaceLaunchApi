@@ -6,7 +6,7 @@ This website provides information about upcoming rocket launches. It fetches dat
 
 - Displays a list of upcoming rocket launches
 - Provides detailed information about each launch
-- Allows users to enable notifications for upcoming launches
+- Allows users to enable notifications for upcoming launches (broken rn)
 
 ## How to Access
 
